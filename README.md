@@ -1,1 +1,1 @@
-# -npm-lint-build-testnpm
+# npm-lint-build-testnpm
